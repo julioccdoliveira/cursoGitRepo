@@ -1,5 +1,5 @@
 #Rep de testes para treinar git
 
-![./t-up.png]()
+![Teste de descrição](./t-up.png)
 
 Aqui não tem nada de mais, pode ignorar.
